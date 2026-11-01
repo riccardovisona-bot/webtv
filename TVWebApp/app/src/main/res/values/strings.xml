@@ -1,0 +1,7 @@
+<resources>
+    <!-- Nome che compare sulla TV e in Projectivy -->
+    <string name="app_name">Web TV</string>
+
+    <!-- Facoltativo: sito predefinito. Se vuoto, l app lo chiede al primo avvio -->
+    <string name="site_url"></string>
+</resources>
